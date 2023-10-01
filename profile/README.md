@@ -1,6 +1,13 @@
-## Hi there 👋
+# Grundkurs Git
+
+Welcome to our Git Intro Course! Think of Git as a trusty diary for your projects. Over the next hours, we'll uncover how to use it for smooth collaboration and tracking changes. Whether you're tech-savvy or brand new to this, there's a spot for you here. Let's dive in and explore together!
+
+Cheers,
+Noe
 
 ### Participants HS23
+
+- https://github.com/noeleont
 
 <!--
 
