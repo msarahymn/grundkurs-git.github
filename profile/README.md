@@ -9,6 +9,11 @@ Noe
 
 - https://github.com/noeleont
 - https://github.com/Gladiseva
+- https://github.com/fabian819
+- https://github.com/ddd42-star
+- https://github.com/lieselty
+- https://github.com/ThoSch94
+
 
 <!--
 
