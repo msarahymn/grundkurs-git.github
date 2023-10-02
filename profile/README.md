@@ -8,6 +8,7 @@ Noe
 ### Participants HS23
 
 - https://github.com/noeleont
+- https://github.com/ddd42-star
 
 <!--
 
