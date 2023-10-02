@@ -8,7 +8,7 @@ Noe
 ### Participants HS23
 
 - https://github.com/noeleont
-
+- https://github.com/ThoSch94
 <!--
 
 **Here are some ideas to get you started:**
