@@ -5,6 +5,8 @@ Welcome to our Git Intro Course! Think of Git as a trusty diary for your project
 Cheers,
 Noe
 
+### Participants HS24 
+
 ### Participants HS23
 
 - https://github.com/noeleont
